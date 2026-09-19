@@ -1,0 +1,77 @@
+name: intake-agent
+
+# Значения ниже — ТОЛЬКО для локали. Не использовать вне docker-compose;
+# в dev/prod переменные приходят из secret manager, не из файла в git.
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: intake
+      POSTGRES_PASSWORD: intake
+      POSTGRES_DB: intake
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U intake -d intake"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  migrate:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    command: ["alembic", "upgrade", "head"]
+    environment:
+      APP_ENV: local
+      DATABASE_URL: postgresql+asyncpg://intake:intake@postgres:5432/intake
+      REDIS_URL: redis://redis:6379/0
+      JWT_SECRET: dev-only-not-for-prod
+      API_KEYS: dev-key
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      APP_ENV: local
+      DATABASE_URL: postgresql+asyncpg://intake:intake@postgres:5432/intake
+      REDIS_URL: redis://redis:6379/0
+      JWT_SECRET: dev-only-not-for-prod
+      JWT_TTL_MIN: "60"
+      API_KEYS: dev-key
+      LOG_LEVEL: INFO
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      migrate:
+        condition: service_completed_successfully
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - >-
+          python -c "import sys,urllib.request;
+          sys.exit(0 if urllib.request.urlopen('http://localhost:8000/health').status == 200 else 1)"
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+volumes:
+  pgdata:

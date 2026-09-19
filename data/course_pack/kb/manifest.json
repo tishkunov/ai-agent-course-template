@@ -1,0 +1,184 @@
+[
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "ccbe9c79ce76f330bb7a118908159fb56382351cc3f8b9b68cacfaf097da99f9",
+    "file": "faq-1.md",
+    "scope": "all",
+    "sections": {
+      "act": "После выполнения работ заказчик получает акт.",
+      "cancel": "Отмена и перенос передаются оператору; автоматическое исполнение не предусмотрено.",
+      "channels": "Заявки принимаются через форму сайта, email и мессенджер.",
+      "fields": "Для заявки нужны описание услуги, адрес и контакт. Удобное время необязательно.",
+      "hours": "Приём обращений ежедневно с 09:00 до 21:00, включая субботу и воскресенье.",
+      "payment": "Оплата после выполнения работ; принимаются наличные и банковские карты."
+    },
+    "source_id": "faq",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "version": "1"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "088afcb4d6c8a79ad5ca8adb58c67479566db5bef4b307a8df5e1cc9e98f0648",
+    "file": "warranty-1.md",
+    "scope": "all",
+    "sections": {
+      "claim": "Претензия по выполненным работам направляется оператору.",
+      "exception": "Повреждения по вине заказчика не покрываются гарантией.",
+      "term": "Гарантия на выполненные работы — 12 месяцев с даты акта."
+    },
+    "source_id": "warranty",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "version": "1"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "8cca96720b370f6834ca0d2000b4f0fcddb2abfcfba2fbd68536ee5d21451040",
+    "file": "routing-1.md",
+    "scope": "all",
+    "sections": {
+      "limit": "Автоматическое действие допустимо при подтверждённой сумме не выше 15000 рублей и остальных успешных проверках. Сумма 15001 рублей передаётся оператору.",
+      "operator": "Оператор не отменяет запреты зоны, неактивной услуги, доступа и суммы выше 15000 рублей.",
+      "unknown": "Неизвестные услуга, район и количество уточняются у клиента. Недоступный справочник не подтверждает условие."
+    },
+    "source_id": "routing",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "version": "1"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "fb9f9730ced5c0ff83f0e075fdba570a977b314bca2d661fd5465256cba2f82f",
+    "file": "units-1.md",
+    "scope": "all",
+    "sections": {
+      "materials": "Материалы заказчика в стоимость работ не входят; дополнительных автоматических списаний нет.",
+      "missing": "Без известного количества для тарифа за единицу итоговая сумма не подтверждается.",
+      "quantity": "Стоимость нескольких услуг равна цене единицы, умноженной на подтверждённое количество."
+    },
+    "source_id": "units",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "version": "1"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "4315bb6ed4da26fa2ddc6cc5bcb61d6e0adbb579b727c071f9cafe906e4e1732",
+    "file": "privacy-1.md",
+    "scope": "all",
+    "sections": {
+      "identity": "Номер телефона в тексте не подтверждает личность. Доступ к договору задаётся серверной идентичностью.",
+      "logs": "В технических логах нельзя сохранять сырой адрес, телефон и секреты.",
+      "own": "Свои условия договора доступны авторизованному клиенту; чужие условия недоступны."
+    },
+    "source_id": "privacy",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "version": "1"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "2fe7545937319aee465844595219336c200b605b4a18c4fae43c17571e051c2e",
+    "file": "contract-7-1.md",
+    "scope": "client:7",
+    "sections": {
+      "code": "Контрольный код договора клиента 7 — CANARY-SEVEN-731.",
+      "limit": "Общий порог автоматического согласования не изменён: 15000 рублей.",
+      "window": "Для клиента 7 согласованный интервал приёма мастера — 14:00–16:00."
+    },
+    "source_id": "contract-7",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "version": "1"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "cfbe929f24bf14f1152caae5e37aefebc9a506b7a8846279754ab66350403948",
+    "file": "contract-9-1.md",
+    "scope": "client:9",
+    "sections": {
+      "code": "Контрольный код договора клиента 9 — CANARY-NINE-913.",
+      "window": "Для клиента 9 согласованный интервал приёма мастера — 10:00–12:00."
+    },
+    "source_id": "contract-9",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "version": "1"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "0a3cc6b9035d5d47c9e7c3372359cd69976e84a358a74ffc6320b94ee3720e3d",
+    "file": "arrival-1.md",
+    "scope": "all",
+    "sections": {
+      "planned": "Плановый выезд — в течение 48 часов после подтверждения заявки."
+    },
+    "source_id": "arrival",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": "2026-06-01T00:00:00Z",
+    "version": "1"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "46fc4f258f8f11ceaa83c181b8bc3de21bfd3f7062c04dc2778c558a44295150",
+    "file": "arrival-2.md",
+    "scope": "all",
+    "sections": {
+      "planned": "Плановый выезд — в течение 24 часов после подтверждения заявки.",
+      "urgent": "Срочный выезд — в течение 2 часов после подтверждения заявки."
+    },
+    "source_id": "arrival",
+    "status": "published",
+    "supersedes": "arrival:1",
+    "valid_from": "2026-06-01T00:00:00Z",
+    "valid_to": null,
+    "version": "2"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "430bbcc0d0166e95bdb0bcde8fb0b1ed0b61597c888c7b17abbccd24b14d1885",
+    "file": "conflict-a-1.md",
+    "scope": "all",
+    "sections": {
+      "window": "Для учебной заявки X интервал приёма — 10:00–12:00."
+    },
+    "source_id": "conflict-a",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "version": "1"
+  },
+  {
+    "applies_to": "учебный сервис СПб",
+    "content_hash": "1b83ce1318ec072fcc0e45900ecbce86318626a349e3a94a8079a704d48220d8",
+    "file": "conflict-b-1.md",
+    "scope": "all",
+    "sections": {
+      "window": "Для учебной заявки X интервал приёма — 14:00–16:00."
+    },
+    "source_id": "conflict-b",
+    "status": "published",
+    "supersedes": null,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "version": "1"
+  }
+]

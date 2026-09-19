@@ -1,0 +1,12 @@
+{"case_id": "FAULT-01", "family_id": "FAULT-01", "input": {"fault_point": "after_db_before_publish", "scenario": "enqueue_failed"}, "split": "regression"}
+{"case_id": "FAULT-02", "family_id": "FAULT-02", "input": {"fault_point": "after_xadd_before_http_response", "scenario": "publish_ack_lost"}, "split": "regression"}
+{"case_id": "FAULT-03", "family_id": "FAULT-03", "input": {"fault_point": "before_ticket_commit", "scenario": "before_ticket"}, "split": "regression"}
+{"case_id": "FAULT-04", "family_id": "FAULT-04", "input": {"fault_point": "after_ticket_commit", "scenario": "after_ticket"}, "split": "regression"}
+{"case_id": "FAULT-05", "family_id": "FAULT-05", "input": {"fault_point": "after_confirm_before_checkpoint", "scenario": "after_confirm"}, "split": "regression"}
+{"case_id": "FAULT-06", "family_id": "FAULT-06", "input": {"fault_point": "after_run_before_processed", "scenario": "processed_write_failed"}, "split": "regression"}
+{"case_id": "FAULT-07", "family_id": "FAULT-07", "input": {"fault_point": "after_processed_before_ack", "scenario": "ack_failed"}, "split": "regression"}
+{"case_id": "FAULT-08", "family_id": "FAULT-08", "input": {"fault_point": "llm_network", "scenario": "model_timeout"}, "split": "regression"}
+{"case_id": "FAULT-09", "family_id": "FAULT-09", "input": {"fault_point": "fifth_llm_call_proposes_tool", "scenario": "tools_budget"}, "split": "regression"}
+{"case_id": "FAULT-10", "family_id": "FAULT-10", "input": {"fault_point": "business_commit", "scenario": "db_unavailable"}, "split": "regression"}
+{"case_id": "FAULT-11", "family_id": "FAULT-11", "input": {"fault_point": "trace_export", "scenario": "collector_unavailable"}, "split": "regression"}
+{"case_id": "FAULT-12", "family_id": "FAULT-12", "input": {"fault_point": "after_cache_fill_before_next_query", "scenario": "cache_acl_changed"}, "split": "regression"}

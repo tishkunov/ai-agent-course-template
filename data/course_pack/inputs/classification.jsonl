@@ -1,0 +1,160 @@
+{"case_id": "CLF-1-01", "family_id": "CLF-1-planned_fixture", "input": {"text": "Через месяц хочу заменить исправный смеситель на новый."}, "split": "train"}
+{"case_id": "CLF-1-02", "family_id": "CLF-1-light_install", "input": {"text": "Нужно установить купленную люстру в спальне."}, "split": "dev"}
+{"case_id": "CLF-1-03", "family_id": "CLF-1-power_loss", "input": {"text": "Во всей квартире нет света, нужен мастер сегодня для восстановления электричества."}, "split": "train"}
+{"case_id": "CLF-1-04", "family_id": "CLF-1-electric_danger", "input": {"text": "Из розетки сейчас идут искры и дым, срочно пришлите электрика."}, "split": "train"}
+{"case_id": "CLF-1-05", "family_id": "CLF-1-heating_prevention", "input": {"text": "К осени планирую профилактику отопления, сейчас всё исправно."}, "split": "train"}
+{"case_id": "CLF-1-06", "family_id": "CLF-1-drain", "input": {"text": "Прошу прочистить засор в кухонной раковине."}, "split": "train"}
+{"case_id": "CLF-1-07", "family_id": "CLF-1-toilet_loss", "input": {"text": "Отопление во всей квартире перестало работать, восстановите его сегодня, протечек нет."}, "split": "train"}
+{"case_id": "CLF-1-08", "family_id": "CLF-1-water_danger", "input": {"text": "Лопнула труба, вода сейчас заливает квартиру, нужен сантехник."}, "split": "test"}
+{"case_id": "CLF-1-09", "family_id": "CLF-1-planned_fixture", "input": {"text": "Запишите на замену унитаза через три недели, спешки нет."}, "split": "train"}
+{"case_id": "CLF-1-10", "family_id": "CLF-1-heater_install", "input": {"text": "Установите новый водонагреватель вместо снятого старого."}, "split": "train"}
+{"case_id": "CLF-1-11", "family_id": "CLF-1-toilet_loss", "input": {"text": "Единственный туалет полностью забит, пользоваться нельзя, нужен мастер сегодня; вода не переливается."}, "split": "train"}
+{"case_id": "CLF-1-12", "family_id": "CLF-1-electric_danger", "input": {"text": "Щиток сейчас дымится, вызовите мастера немедленно."}, "split": "train"}
+{"case_id": "CLF-1-13", "family_id": "CLF-1-ac_prevention", "input": {"text": "Через два месяца понадобится плановая чистка кондиционера."}, "split": "train"}
+{"case_id": "CLF-1-14", "family_id": "CLF-1-cleaning", "input": {"text": "Нужна химчистка дивана после пятен от чая."}, "split": "dev"}
+{"case_id": "CLF-1-15", "family_id": "CLF-1-fridge_loss", "input": {"text": "Перестал работать единственный холодильник, нужно восстановить охлаждение сегодня, дыма нет."}, "split": "test"}
+{"case_id": "CLF-1-16", "family_id": "CLF-1-water_danger", "input": {"text": "Батарея прорвалась, кипяток льётся на пол прямо сейчас, пришлите мастера."}, "split": "test"}
+{"case_id": "CLF-1-17", "family_id": "CLF-1-windows", "input": {"text": "Хочу заранее записаться на мытьё окон в следующем месяце."}, "split": "train"}
+{"case_id": "CLF-1-18", "family_id": "CLF-1-socket_repair", "input": {"text": "Замените две расшатанные розетки, искр и нагрева нет."}, "split": "train"}
+{"case_id": "CLF-1-19", "family_id": "CLF-1-water_loss", "input": {"text": "В квартире полностью отключилось водоснабжение, восстановление требуется сегодня, течи нет."}, "split": "dev"}
+{"case_id": "CLF-1-20", "family_id": "CLF-1-electric_danger", "input": {"text": "Оголённый провод в прихожей сейчас искрит, нужен электрик."}, "split": "train"}
+{"case_id": "CLF-1-21", "family_id": "CLF-1-washer", "input": {"text": "Стиральная машина не отжимает бельё, нужна диагностика без срочности."}, "split": "train"}
+{"case_id": "CLF-1-22", "family_id": "CLF-1-meter", "input": {"text": "Установите счётчик воды на подготовленное место."}, "split": "train"}
+{"case_id": "CLF-1-23", "family_id": "CLF-1-past_spark", "input": {"text": "Вчера розетка искрила, сейчас питание отключено и всё спокойно; нужен плановый осмотр."}, "split": "train"}
+{"case_id": "CLF-1-24", "family_id": "CLF-1-cistern", "input": {"text": "Нужен ремонт бачка: после смыва иногда заедает кнопка."}, "split": "train"}
+{"case_id": "CLF-1-25", "family_id": "CLF-1-wiring_plan", "input": {"text": "Ремонт исправной проводки хочу запланировать на отпуск через шесть недель."}, "split": "dev"}
+{"case_id": "CLF-1-26", "family_id": "CLF-1-light_install", "input": {"text": "Прикрепите купленный светильник над рабочим столом."}, "split": "dev"}
+{"case_id": "CLF-1-27", "family_id": "CLF-1-water_loss", "input": {"text": "Все краны в квартире без воды, нужен выезд сегодня для восстановления, затопления нет."}, "split": "dev"}
+{"case_id": "CLF-1-28", "family_id": "CLF-1-water_danger", "input": {"text": "Вода из сорванного шланга прямо сейчас течёт к соседям, нужен аварийный сантехник."}, "split": "test"}
+{"case_id": "CLF-1-29", "family_id": "CLF-1-cleaning", "input": {"text": "На следующий месяц заказываю уборку после будущего ремонта."}, "split": "dev"}
+{"case_id": "CLF-1-30", "family_id": "CLF-1-oven", "input": {"text": "Духовой шкаф не держит температуру; запишите на обычную диагностику."}, "split": "dev"}
+{"case_id": "CLF-1-31", "family_id": "CLF-1-heating_loss", "input": {"text": "Во всём доме у нас пропало отопление, требуется восстановление сегодня, аварийных признаков нет."}, "split": "train"}
+{"case_id": "CLF-1-32", "family_id": "CLF-1-electric_danger", "input": {"text": "При включении света проводка прямо сейчас трещит и дымится, вызовите электрика."}, "split": "train"}
+{"case_id": "CLF-1-33", "family_id": "CLF-1-heating_prevention", "input": {"text": "Пока только записываюсь на плановый осмотр радиаторов через месяц."}, "split": "train"}
+{"case_id": "CLF-1-34", "family_id": "CLF-1-tap_leak", "input": {"text": "Нужна замена прокладки крана: капает в раковину, затопления нет."}, "split": "test"}
+{"case_id": "CLF-1-35", "family_id": "CLF-1-power_loss", "input": {"text": "Единственный квартирный ввод электричества отключился, нужно вернуть свет сегодня; дыма нет."}, "split": "train"}
+{"case_id": "CLF-1-36", "family_id": "CLF-1-water_danger", "input": {"text": "Из соединения стояка сейчас хлещет горячая вода, пришлите специалиста."}, "split": "test"}
+{"case_id": "CLF-1-37", "family_id": "CLF-1-ventilation", "input": {"text": "Хочу заказать чистку исправной вентиляции к следующему сезону."}, "split": "test"}
+{"case_id": "CLF-1-38", "family_id": "CLF-1-dishwasher", "input": {"text": "Прошу подключить новую посудомоечную машину."}, "split": "test"}
+{"case_id": "CLF-1-39", "family_id": "CLF-1-fridge_loss", "input": {"text": "Основной холодильник не охлаждает продукты, ремонт нужен сегодня, опасных признаков нет."}, "split": "test"}
+{"case_id": "CLF-1-40", "family_id": "CLF-1-electric_danger", "input": {"text": "Стиральная машина сейчас дымится из корпуса, нужен срочный выезд."}, "split": "train"}
+{"case_id": "CLF-2-01", "family_id": "CLF-2-warranty", "input": {"text": "Какой срок гарантии на ваши работы?"}, "split": "test"}
+{"case_id": "CLF-2-02", "family_id": "CLF-2-payment", "input": {"text": "Можно ли оплатить картой после ремонта?"}, "split": "dev"}
+{"case_id": "CLF-2-03", "family_id": "CLF-2-power_loss", "input": {"text": "Во всей квартире нет света, восстановление нужно сегодня, дыма нет. Есть ли сегодня мастер?"}, "split": "train"}
+{"case_id": "CLF-2-04", "family_id": "CLF-2-electric_danger", "input": {"text": "Из щитка прямо сейчас идёт дым. Есть ли у вас аварийный выезд?"}, "split": "train"}
+{"case_id": "CLF-2-05", "family_id": "CLF-2-hours", "input": {"text": "В какие часы принимаете обращения в воскресенье?"}, "split": "train"}
+{"case_id": "CLF-2-06", "family_id": "CLF-2-diagnostic_price", "input": {"text": "Диагностика входит в цену или оплачивается отдельно?"}, "split": "train"}
+{"case_id": "CLF-2-07", "family_id": "CLF-2-act", "input": {"text": "Срочно ответьте, пожалуйста: выдаёте ли вы акт выполненных работ?"}, "split": "train"}
+{"case_id": "CLF-2-08", "family_id": "CLF-2-zones", "input": {"text": "Можно узнать, какие районы вы обслуживаете?"}, "split": "train"}
+{"case_id": "CLF-2-09", "family_id": "CLF-2-request_status", "input": {"text": "На каком этапе сейчас моя заявка, номер уже сообщал?"}, "split": "train"}
+{"case_id": "CLF-2-10", "family_id": "CLF-2-fields", "input": {"text": "Какие сведения нужно указать для вызова сантехника?"}, "split": "train"}
+{"case_id": "CLF-2-11", "family_id": "CLF-2-visit_time", "input": {"text": "Можно выбрать время визита или его назначаете вы?"}, "split": "train"}
+{"case_id": "CLF-2-12", "family_id": "CLF-2-mixer_price", "input": {"text": "Сколько стоит замена одного смесителя?"}, "split": "train"}
+{"case_id": "CLF-2-13", "family_id": "CLF-2-customer_type", "input": {"text": "Вы работаете с квартирами или только с офисами?"}, "split": "train"}
+{"case_id": "CLF-2-14", "family_id": "CLF-2-outside_fee", "input": {"text": "Есть ли доплата за выезд за пределы зоны?"}, "split": "train"}
+{"case_id": "CLF-2-15", "family_id": "CLF-2-materials", "input": {"text": "Включены ли расходные материалы в указанную цену?"}, "split": "train"}
+{"case_id": "CLF-2-16", "family_id": "CLF-2-act", "input": {"text": "Где можно получить копию закрывающего акта?"}, "split": "train"}
+{"case_id": "CLF-2-17", "family_id": "CLF-2-reschedule", "input": {"text": "Могу ли я перенести визит через оператора?"}, "split": "train"}
+{"case_id": "CLF-2-18", "family_id": "CLF-2-window_price", "input": {"text": "Как вы рассчитываете стоимость мытья окон?"}, "split": "train"}
+{"case_id": "CLF-2-19", "family_id": "CLF-2-materials", "input": {"text": "Нужно ли самому покупать смеситель до приезда мастера?"}, "split": "train"}
+{"case_id": "CLF-2-20", "family_id": "CLF-2-rounds", "input": {"text": "Сколько уточняющих вопросов обычно требуется для оформления?"}, "split": "train"}
+{"case_id": "CLF-2-21", "family_id": "CLF-2-ambiguous_service", "input": {"text": "Почему для проверки цены недостаточно слов «сломалось»?"}, "split": "train"}
+{"case_id": "CLF-2-22", "family_id": "CLF-2-channels", "input": {"text": "Принимаете ли вы заявки в мессенджере?"}, "split": "dev"}
+{"case_id": "CLF-2-23", "family_id": "CLF-2-consultation", "input": {"text": "Можно ли получить консультацию без оформления ремонта?"}, "split": "train"}
+{"case_id": "CLF-2-24", "family_id": "CLF-2-operator", "input": {"text": "Что означает статус «передано оператору»?"}, "split": "train"}
+{"case_id": "CLF-2-25", "family_id": "CLF-2-warranty_contact", "input": {"text": "Как связаться с человеком по уже созданному обращению?"}, "split": "train"}
+{"case_id": "CLF-2-26", "family_id": "CLF-2-warranty", "input": {"text": "С какой даты считается гарантия по акту?"}, "split": "test"}
+{"case_id": "CLF-2-27", "family_id": "CLF-2-water_loss", "input": {"text": "В квартире совсем нет воды и восстановить нужно сегодня, утечки нет. Сможет ли мастер приехать сегодня?"}, "split": "dev"}
+{"case_id": "CLF-2-28", "family_id": "CLF-2-water_danger", "input": {"text": "Труба сейчас прорвана, квартиру заливает. Предусмотрен ли срочный выезд?"}, "split": "test"}
+{"case_id": "CLF-2-29", "family_id": "CLF-2-hours", "input": {"text": "По выходным часы приёма отличаются от будней?"}, "split": "train"}
+{"case_id": "CLF-2-30", "family_id": "CLF-2-service_catalog", "input": {"text": "Есть ли в вашем прайсе установка люстры?"}, "split": "dev"}
+{"case_id": "CLF-2-31", "family_id": "CLF-2-payment", "input": {"text": "Можно ли оплатить услуги наличными после завершения?"}, "split": "dev"}
+{"case_id": "CLF-2-32", "family_id": "CLF-2-quantity", "input": {"text": "Почему вы спрашиваете количество приборов для расчёта?"}, "split": "dev"}
+{"case_id": "CLF-2-33", "family_id": "CLF-2-warranty_exception", "input": {"text": "Вы предоставляете гарантию на повреждение по вине заказчика?"}, "split": "test"}
+{"case_id": "CLF-2-34", "family_id": "CLF-2-fields", "input": {"text": "Нужно ли сообщать квартиру, если назван только дом?"}, "split": "train"}
+{"case_id": "CLF-2-35", "family_id": "CLF-2-heating_loss", "input": {"text": "Отопления во всей квартире нет, вернуть его нужно сегодня, течи нет. Доступен ли сегодня специалист?"}, "split": "train"}
+{"case_id": "CLF-2-36", "family_id": "CLF-2-electric_danger", "input": {"text": "Розетка сейчас искрит и плавится. Работает ли аварийная бригада?"}, "split": "train"}
+{"case_id": "CLF-2-37", "family_id": "CLF-2-grounding", "input": {"text": "Как проверить, что полученный ответ основан на действующем регламенте?"}, "split": "test"}
+{"case_id": "CLF-2-38", "family_id": "CLF-2-complaints", "input": {"text": "Кто рассматривает жалобы на работу мастера?"}, "split": "test"}
+{"case_id": "CLF-2-39", "family_id": "CLF-2-unsupported_service", "input": {"text": "Есть ли у вас услуга бурения скважин?"}, "split": "test"}
+{"case_id": "CLF-2-40", "family_id": "CLF-2-threshold", "input": {"text": "Для какой суммы согласование с оператором обязательно?"}, "split": "test"}
+{"case_id": "CLF-3-01", "family_id": "CLF-3-cleaning_old", "input": {"text": "Пишу отзыв о прошлогодней уборке: остались разводы. Разберите через месяц, сейчас не срочно."}, "split": "train"}
+{"case_id": "CLF-3-02", "family_id": "CLF-3-no_show", "input": {"text": "Мастер вчера не приехал и не предупредил, прошу разобраться."}, "split": "train"}
+{"case_id": "CLF-3-03", "family_id": "CLF-3-power_loss", "input": {"text": "После вашего ремонта вся квартира осталась без света; исправить нужно сегодня, дыма нет."}, "split": "train"}
+{"case_id": "CLF-3-04", "family_id": "CLF-3-water_danger", "input": {"text": "После вашей замены трубы сейчас заливает соседей, требую немедленно исправить."}, "split": "test"}
+{"case_id": "CLF-3-05", "family_id": "CLF-3-appearance_old", "input": {"text": "Жалуюсь на некрасивый шов прошлой работы; обсудим после отпуска через месяц."}, "split": "train"}
+{"case_id": "CLF-3-06", "family_id": "CLF-3-billing", "input": {"text": "За одну диагностику списали оплату дважды, верните лишнее."}, "split": "dev"}
+{"case_id": "CLF-3-07", "family_id": "CLF-3-water_loss", "input": {"text": "Ваш специалист оставил квартиру совсем без воды, восстановите сегодня; протечки нет."}, "split": "dev"}
+{"case_id": "CLF-3-08", "family_id": "CLF-3-electric_danger", "input": {"text": "Установленная вами розетка прямо сейчас дымится, это претензия к ремонту."}, "split": "train"}
+{"case_id": "CLF-3-09", "family_id": "CLF-3-cleaning_old", "input": {"text": "Отзыв о старой услуге: уборка была слабой, ответ можно прислать в следующем месяце."}, "split": "train"}
+{"case_id": "CLF-3-10", "family_id": "CLF-3-garbage", "input": {"text": "Обещали убрать строительный мусор, но оставили мешки в квартире."}, "split": "train"}
+{"case_id": "CLF-3-11", "family_id": "CLF-3-toilet_loss", "input": {"text": "После вашего визита единственный туалет не работает, устранить нужно сегодня, затопления нет."}, "split": "test"}
+{"case_id": "CLF-3-12", "family_id": "CLF-3-water_danger", "input": {"text": "Новая батарея после вашего монтажа сейчас выбрасывает кипяток, требую помощи."}, "split": "test"}
+{"case_id": "CLF-3-13", "family_id": "CLF-3-appearance_old", "input": {"text": "Не понравился внешний вид монтажа год назад; вернусь к претензии через месяц."}, "split": "train"}
+{"case_id": "CLF-3-14", "family_id": "CLF-3-rude", "input": {"text": "Мастер грубо разговаривал с моей семьёй, хочу подать жалобу."}, "split": "train"}
+{"case_id": "CLF-3-15", "family_id": "CLF-3-fridge_loss", "input": {"text": "После вашего ремонта холодильник совсем перестал охлаждать; исправление нужно сегодня, дыма нет."}, "split": "train"}
+{"case_id": "CLF-3-16", "family_id": "CLF-3-electric_danger", "input": {"text": "Отремонтированный вами щиток прямо сейчас искрит, пожаловалась на опасную работу."}, "split": "train"}
+{"case_id": "CLF-3-17", "family_id": "CLF-3-cleaning_old", "input": {"text": "Пятно после вашей уборки заметили давно, рассмотреть можно через несколько недель."}, "split": "train"}
+{"case_id": "CLF-3-18", "family_id": "CLF-3-billing", "input": {"text": "В счёте указали работу, которую мастер не выполнял, прошу проверить."}, "split": "dev"}
+{"case_id": "CLF-3-19", "family_id": "CLF-3-heating_loss", "input": {"text": "Ваше обслуживание оставило всю квартиру без отопления; восстановите сегодня, утечек нет."}, "split": "train"}
+{"case_id": "CLF-3-20", "family_id": "CLF-3-water_danger", "input": {"text": "Только что сделанное вами соединение трубы сорвало, вода сейчас льётся на пол."}, "split": "test"}
+{"case_id": "CLF-3-21", "family_id": "CLF-3-wrong_address", "input": {"text": "Мастер перепутал адрес и закрыл заявку как выполненную, хотя у нас не был."}, "split": "train"}
+{"case_id": "CLF-3-22", "family_id": "CLF-3-past_spark", "input": {"text": "Вчера после ремонта искрило, сейчас всё отключено и спокойно. Прошу рассмотреть претензию."}, "split": "train"}
+{"case_id": "CLF-3-23", "family_id": "CLF-3-act", "input": {"text": "Вы обещали акт, но после оплаты его не прислали; жалуюсь на обслуживание."}, "split": "test"}
+{"case_id": "CLF-3-24", "family_id": "CLF-3-cleaning_result", "input": {"text": "После химчистки осталось исходное пятно, результатом недоволен."}, "split": "test"}
+{"case_id": "CLF-3-25", "family_id": "CLF-3-inspection_old", "input": {"text": "Претензия к прошлому осмотру, ответа жду после командировки через месяц."}, "split": "dev"}
+{"case_id": "CLF-3-26", "family_id": "CLF-3-billing", "input": {"text": "Обещанная цена изменилась без согласования после окончания работ, разберитесь."}, "split": "dev"}
+{"case_id": "CLF-3-27", "family_id": "CLF-3-power_loss", "input": {"text": "Ваш электрик ушёл, и света во всей квартире нет; нужно исправление сегодня, без признаков аварии."}, "split": "train"}
+{"case_id": "CLF-3-28", "family_id": "CLF-3-electric_danger", "input": {"text": "После установки вашей люстры провод прямо сейчас дымится, требую устранить опасный дефект."}, "split": "train"}
+{"case_id": "CLF-3-29", "family_id": "CLF-3-appearance_old", "input": {"text": "Замечание к старому ремонту, технически всё работает; рассмотрение отложим на следующий месяц."}, "split": "train"}
+{"case_id": "CLF-3-30", "family_id": "CLF-3-no_show", "input": {"text": "Договорились на десять, мастер явился вечером без звонка, это жалоба."}, "split": "train"}
+{"case_id": "CLF-3-31", "family_id": "CLF-3-water_loss", "input": {"text": "После работ ваших сантехников полностью пропала вода, нужна сегодня, течи нет."}, "split": "dev"}
+{"case_id": "CLF-3-32", "family_id": "CLF-3-water_danger", "input": {"text": "Смонтированный вами радиатор прямо сейчас прорвало, горячая вода заливает комнату."}, "split": "test"}
+{"case_id": "CLF-3-33", "family_id": "CLF-3-act_old", "input": {"text": "Не устроило оформление акта прошлой зимой; исправить можно через месяц."}, "split": "dev"}
+{"case_id": "CLF-3-34", "family_id": "CLF-3-billing", "input": {"text": "Заказанную замену не сделали, а деньги взяли за полный объём, прошу разбирательства."}, "split": "dev"}
+{"case_id": "CLF-3-35", "family_id": "CLF-3-toilet_loss", "input": {"text": "После вашей прочистки единственным туалетом пользоваться нельзя, исправьте сегодня, перелива нет."}, "split": "test"}
+{"case_id": "CLF-3-36", "family_id": "CLF-3-electric_danger", "input": {"text": "Ваша новая проводка сейчас искрит возле двери, жалуюсь на опасный ремонт."}, "split": "train"}
+{"case_id": "CLF-3-37", "family_id": "CLF-3-cleaning_old", "input": {"text": "Отзыв о давней уборке отрицательный, ответа сейчас не нужно, вернусь через месяц."}, "split": "train"}
+{"case_id": "CLF-3-38", "family_id": "CLF-3-lost_request", "input": {"text": "Номер моего обращения потеряли, второй раз объясняю одно и то же, хочу пожаловаться."}, "split": "test"}
+{"case_id": "CLF-3-39", "family_id": "CLF-3-heating_loss", "input": {"text": "Ваш мастер отключил отопление во всей квартире и ушёл; восстановить нужно сегодня, воды на полу нет."}, "split": "train"}
+{"case_id": "CLF-3-40", "family_id": "CLF-3-electric_danger", "input": {"text": "После вашего ремонта стиральная машина прямо сейчас дымится, требую срочного вмешательства."}, "split": "train"}
+{"case_id": "CLF-4-01", "family_id": "CLF-4-contact_lists", "input": {"text": "Купите базу телефонов жильцов со скидкой, пишите на sales@example.invalid."}, "split": "test"}
+{"case_id": "CLF-4-02", "family_id": "CLF-4-earnings", "input": {"text": "Заработок без опыта: внесите стартовый платёж и получите доход."}, "split": "train"}
+{"case_id": "CLF-4-03", "family_id": "CLF-4-prize", "input": {"text": "Вы выиграли розыгрыш, оплатите доставку приза по ссылке prize.example.invalid."}, "split": "dev"}
+{"case_id": "CLF-4-04", "family_id": "CLF-4-followers", "input": {"text": "Продам подписчиков для вашего канала, любые объёмы."}, "split": "train"}
+{"case_id": "CLF-4-05", "family_id": "CLF-4-credit", "input": {"text": "Кредит всем без проверки, заявку оставляйте на loan.example.invalid."}, "split": "train"}
+{"case_id": "CLF-4-06", "family_id": "CLF-4-advertising", "input": {"text": "Рассылаем рекламу по всем чатам города, закажите продвижение."}, "split": "train"}
+{"case_id": "CLF-4-07", "family_id": "CLF-4-windows", "input": {"text": "Скидки на пластиковые окна только сегодня! Это рекламная рассылка."}, "split": "train"}
+{"case_id": "CLF-4-08", "family_id": "CLF-4-investments", "input": {"text": "Пассивный доход на токенах, переведите депозит для участия."}, "split": "train"}
+{"case_id": "CLF-4-09", "family_id": "CLF-4-reviews", "input": {"text": "Предлагаем купить тысячи положительных отзывов для сервиса."}, "split": "train"}
+{"case_id": "CLF-4-10", "family_id": "CLF-4-casino", "input": {"text": "Онлайн-казино дарит бонус за первое пополнение, заходите."}, "split": "dev"}
+{"case_id": "CLF-4-11", "family_id": "CLF-4-contact_lists", "input": {"text": "Продам списки электронных адресов ваших конкурентов."}, "split": "test"}
+{"case_id": "CLF-4-12", "family_id": "CLF-4-wealth_course", "input": {"text": "Срочно! Успейте купить курс мгновенного обогащения."}, "split": "train"}
+{"case_id": "CLF-4-13", "family_id": "CLF-4-ad_channel", "input": {"text": "Подпишитесь на рекламный канал с ежедневными акциями магазинов."}, "split": "train"}
+{"case_id": "CLF-4-14", "family_id": "CLF-4-goods", "input": {"text": "Оптовые поставки чехлов для телефона, каталог на cases.example.invalid."}, "split": "dev"}
+{"case_id": "CLF-4-15", "family_id": "CLF-4-pyramid", "input": {"text": "Приглашаем в партнёрскую сеть: доход за каждого приведённого участника."}, "split": "test"}
+{"case_id": "CLF-4-16", "family_id": "CLF-4-accounts", "input": {"text": "Купите готовые аккаунты для массовых сообщений."}, "split": "train"}
+{"case_id": "CLF-4-17", "family_id": "CLF-4-goods", "input": {"text": "Акция на парфюмерию, рассылка по всей базе клиентов."}, "split": "dev"}
+{"case_id": "CLF-4-18", "family_id": "CLF-4-seo", "input": {"text": "Продвигаем сайты в поиске, закажите пакет прямо сейчас."}, "split": "train"}
+{"case_id": "CLF-4-19", "family_id": "CLF-4-investments", "input": {"text": "Вложите небольшую сумму и удвойте её за сутки, подробности в личке."}, "split": "train"}
+{"case_id": "CLF-4-20", "family_id": "CLF-4-games", "input": {"text": "Продаём игровые предметы со скидкой, ремонт не нужен."}, "split": "train"}
+{"case_id": "CLF-4-21", "family_id": "CLF-4-travel", "input": {"text": "Распродажа авиабилетов, рекламная акция турфирмы."}, "split": "train"}
+{"case_id": "CLF-4-22", "family_id": "CLF-4-followers", "input": {"text": "Накрутим просмотры вашим роликам за один вечер."}, "split": "train"}
+{"case_id": "CLF-4-23", "family_id": "CLF-4-miracle_health", "input": {"text": "Покупайте универсальные витамины с гарантированным чудо-эффектом."}, "split": "train"}
+{"case_id": "CLF-4-24", "family_id": "CLF-4-ad_channel", "input": {"text": "Доступ к платным каналам за полцены, большая распродажа."}, "split": "train"}
+{"case_id": "CLF-4-25", "family_id": "CLF-4-pyramid", "input": {"text": "Станьте участником денежной пирамиды, пригласите трёх друзей."}, "split": "test"}
+{"case_id": "CLF-4-26", "family_id": "CLF-4-casino", "input": {"text": "Только сейчас купите промокоды для ставок на спорт."}, "split": "dev"}
+{"case_id": "CLF-4-27", "family_id": "CLF-4-goods", "input": {"text": "Автоматическая реклама: оптовая продажа игрушек, прайс в личку."}, "split": "dev"}
+{"case_id": "CLF-4-28", "family_id": "CLF-4-prize", "input": {"text": "Выбран ваш номер для подарка, сначала отправьте сервисный взнос."}, "split": "dev"}
+{"case_id": "CLF-4-29", "family_id": "CLF-4-fake_degree", "input": {"text": "Дипломы без обучения, покупайте документы на degree.example.invalid."}, "split": "dev"}
+{"case_id": "CLF-4-30", "family_id": "CLF-4-accounts", "input": {"text": "Рекламируем услуги массовой регистрации аккаунтов."}, "split": "train"}
+{"case_id": "CLF-4-31", "family_id": "CLF-4-advertising", "input": {"text": "Сдаём рекламное место в сети чатов, ответьте для заказа."}, "split": "train"}
+{"case_id": "CLF-4-32", "family_id": "CLF-4-lottery", "input": {"text": "Покупайте секретную стратегию выигрыша в лотерею."}, "split": "test"}
+{"case_id": "CLF-4-33", "family_id": "CLF-4-investments", "input": {"text": "Вступайте в платную инвестиционную группу с обещанием дохода каждый час."}, "split": "train"}
+{"case_id": "CLF-4-34", "family_id": "CLF-4-contact_lists", "input": {"text": "Готовая база жильцов по районам продаётся, доступ после оплаты."}, "split": "test"}
+{"case_id": "CLF-4-35", "family_id": "CLF-4-bank_promotion", "input": {"text": "Бонусные баллы банка сгорят: рекламное предложение обменять их на товар."}, "split": "test"}
+{"case_id": "CLF-4-36", "family_id": "CLF-4-goods", "input": {"text": "Суперцена на смартфоны, массовая рассылка магазина, доставка после предоплаты."}, "split": "dev"}
+{"case_id": "CLF-4-37", "family_id": "CLF-4-advertising", "input": {"text": "Закажите тысячу рекламных комментариев под публикациями."}, "split": "train"}
+{"case_id": "CLF-4-38", "family_id": "CLF-4-software_keys", "input": {"text": "Продам лицензионные ключи неизвестного происхождения, скидка оптом."}, "split": "test"}
+{"case_id": "CLF-4-39", "family_id": "CLF-4-wealth_course", "input": {"text": "Приглашаем на платный марафон богатства, мест почти не осталось."}, "split": "train"}
+{"case_id": "CLF-4-40", "family_id": "CLF-4-earnings", "input": {"text": "Срочно набираем участников схемы заработка на переводах между картами."}, "split": "train"}

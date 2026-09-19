@@ -1,0 +1,14 @@
+[
+  {
+    "access_identity": "client:7",
+    "client_id": 7,
+    "name": "Учебный клиент 7",
+    "phone": "+7 921 000-00-07"
+  },
+  {
+    "access_identity": "client:9",
+    "client_id": 9,
+    "name": "Учебный клиент 9",
+    "phone": "+7 921 000-00-09"
+  }
+]

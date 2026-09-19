@@ -1,0 +1,263 @@
+[
+  {
+    "active": true,
+    "category": "Сантехника",
+    "code": "SRV-1007",
+    "name": "Замена смесителя",
+    "price": 2500,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": false,
+    "category": "Сантехника",
+    "code": "SRV-1014",
+    "name": "Устранение течи",
+    "price": 1800,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Сантехника",
+    "code": "SRV-1021",
+    "name": "Прочистка засора",
+    "price": 2200,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Сантехника",
+    "code": "SRV-1028",
+    "name": "Установка унитаза",
+    "price": 3500,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Сантехника",
+    "code": "SRV-1035",
+    "name": "Замена труб (стояк)",
+    "price": 12000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Сантехника",
+    "code": "SRV-1042",
+    "name": "Ремонт бачка",
+    "price": 1500,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Сантехника",
+    "code": "SRV-1049",
+    "name": "Установка водонагревателя",
+    "price": 4500,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Сантехника",
+    "code": "SRV-1056",
+    "name": "Замена радиатора",
+    "price": 8000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Электрика",
+    "code": "SRV-1063",
+    "name": "Замена розетки",
+    "price": 900,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": false,
+    "category": "Электрика",
+    "code": "SRV-1070",
+    "name": "Ремонт проводки",
+    "price": 6000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Электрика",
+    "code": "SRV-1077",
+    "name": "Установка люстры",
+    "price": 1800,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Электрика",
+    "code": "SRV-1084",
+    "name": "Замена автомата",
+    "price": 1400,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": false,
+    "category": "Электрика",
+    "code": "SRV-1091",
+    "name": "Устранение короткого замыкания",
+    "price": 5000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Электрика",
+    "code": "SRV-1098",
+    "name": "Монтаж щитка",
+    "price": 15000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Электрика",
+    "code": "SRV-1105",
+    "name": "Установка счётчика",
+    "price": 3200,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Бытовая техника",
+    "code": "SRV-1112",
+    "name": "Ремонт стиральной машины",
+    "price": 3000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Бытовая техника",
+    "code": "SRV-1119",
+    "name": "Ремонт холодильника",
+    "price": 4200,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Бытовая техника",
+    "code": "SRV-1126",
+    "name": "Ремонт посудомоечной машины",
+    "price": 3300,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Бытовая техника",
+    "code": "SRV-1133",
+    "name": "Ремонт духового шкафа",
+    "price": 2800,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": false,
+    "category": "Бытовая техника",
+    "code": "SRV-1140",
+    "name": "Ремонт варочной панели",
+    "price": 3100,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Бытовая техника",
+    "code": "SRV-1147",
+    "name": "Диагностика техники",
+    "price": 1000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Клининг",
+    "code": "SRV-1154",
+    "name": "Генеральная уборка",
+    "price": 6000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Клининг",
+    "code": "SRV-1161",
+    "name": "Уборка после ремонта",
+    "price": 9000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Клининг",
+    "code": "SRV-1168",
+    "name": "Мытьё окон",
+    "price": 2500,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Клининг",
+    "code": "SRV-1175",
+    "name": "Химчистка дивана",
+    "price": 3500,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Обслуживание",
+    "code": "SRV-1182",
+    "name": "Плановое ТО системы отопления",
+    "price": 5500,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Обслуживание",
+    "code": "SRV-1189",
+    "name": "Сезонное обслуживание кондиционера",
+    "price": 3000,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Обслуживание",
+    "code": "SRV-1196",
+    "name": "Осмотр и диагностика",
+    "price": 1200,
+    "unit": "услуга",
+    "version": "price-1"
+  },
+  {
+    "active": true,
+    "category": "Учебный контроль",
+    "code": "SRV-DEMO-15001",
+    "name": "Контрольный пакет работ",
+    "price": 15001,
+    "unit": "услуга",
+    "version": "price-1"
+  }
+]

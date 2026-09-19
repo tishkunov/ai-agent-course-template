@@ -1,0 +1,1 @@
+{"basis": {"reason": "Утечка блокирует приёмку даже при росте средней точности.", "rule": "M7.8"}, "case_id": "GATE-01", "expected": {"verdict": "fail"}, "review_status": "agent_reviewed"}

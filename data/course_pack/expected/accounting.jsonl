@@ -1,0 +1,1 @@
+{"basis": {"kind": "decimal_ledger", "rule": "M2.8"}, "case_id": "COST-01", "expected": {"known_cost": "0.032", "total_is_complete": false, "unique_calls": 3, "unknown_calls": 1}, "review_status": "agent_reviewed"}

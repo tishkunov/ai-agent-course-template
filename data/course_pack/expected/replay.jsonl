@@ -1,0 +1,1 @@
+{"basis": {"kind": "transport_identity", "note": "Distinct request/conversation keys; repeated text does not merge clients.", "rule": "M8.2"}, "case_id": "REPLAY-01", "expected": {"deliveries": 100, "replies": 80, "requests": 80, "tickets": 0, "unique_events": 80}, "review_status": "agent_reviewed"}

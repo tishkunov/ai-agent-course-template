@@ -1,0 +1,8 @@
+{
+  "exception": "controlled_loader_error",
+  "expected": {
+    "other_files_continue": true,
+    "party_complete": false
+  },
+  "failed_source": "legacy_formats/api_priema.json"
+}

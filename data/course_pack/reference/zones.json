@@ -1,0 +1,110 @@
+[
+  {
+    "active": true,
+    "district": "Центральный",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Адмиралтейский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Василеостровский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Петроградский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Московский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Фрунзенский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Невский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Калининский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Выборгский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Приморский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Кировский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": true,
+    "district": "Красногвардейский",
+    "note": "",
+    "version": "zones-1"
+  },
+  {
+    "active": false,
+    "district": "Пушкин",
+    "note": "за КАД",
+    "version": "zones-1"
+  },
+  {
+    "active": false,
+    "district": "Колпино",
+    "note": "пригород",
+    "version": "zones-1"
+  },
+  {
+    "active": false,
+    "district": "Кронштадт",
+    "note": "пригород",
+    "version": "zones-1"
+  },
+  {
+    "active": false,
+    "district": "Петергоф",
+    "note": "за КАД",
+    "version": "zones-1"
+  },
+  {
+    "active": false,
+    "district": "Сестрорецк",
+    "note": "по согласованию",
+    "version": "zones-1"
+  },
+  {
+    "active": false,
+    "district": "Всеволожск",
+    "note": "за КАД",
+    "version": "zones-1"
+  }
+]

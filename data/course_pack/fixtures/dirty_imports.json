@@ -1,0 +1,38 @@
+[
+  {
+    "expected_action": "quarantine",
+    "reason": "missing_price",
+    "row": {
+      "active": "1",
+      "code": "D-1",
+      "price": ""
+    }
+  },
+  {
+    "expected_action": "quarantine",
+    "reason": "negative_price",
+    "row": {
+      "active": "1",
+      "code": "D-2",
+      "price": "-1"
+    }
+  },
+  {
+    "expected_action": "quarantine",
+    "reason": "invalid_active",
+    "row": {
+      "active": "maybe",
+      "code": "D-3",
+      "price": "900"
+    }
+  },
+  {
+    "expected_action": "accept",
+    "reason": "inactive_is_valid",
+    "row": {
+      "active": "0",
+      "code": "D-4",
+      "price": "900"
+    }
+  }
+]

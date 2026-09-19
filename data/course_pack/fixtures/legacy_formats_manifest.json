@@ -1,0 +1,114 @@
+[
+  {
+    "file": "legacy_formats/api_priema.json",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "5c0fa360708f05f5d08c043a26bc55fb5dca6245f60ecb17e7a154a4f3c6a767",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/dogovor_klient_7.pdf",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "cf87e17f8afc7f4f0d0f5886d7ac58c4fbcdddfcd233d93aca9e9147d1236786",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/faq.csv",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "626c33fd29029acca4e3fb90c63b73af07c92c29c1959faefdefb42cea568149",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/faq.md",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "a0674c93ab2a0279158acd075ff504fc37ce221cd792ce09b301c2de0d9e4586",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/garantia_usloviya.pdf",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "8b13cc142da588f548b5ec88dbe8db8d9d7042d5bdb622642e6ffc6001ba0fed",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/instrukciya_operatora.pdf",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "7c8d330a90679888bcc3bf183cac29d19f67db29bb16ebac867392cda39a9a63",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/opisanie_uslug.docx",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "80956d77e826bfa5cc428de65d740d6d788b94f4bf0ecdc421a52dd5834431fd",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/politika_eskalacii.md",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "35b5157df2f6fb8b59b552727f91b4249dbe3afd23663589877f588e1f56c972",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/prices_full.pdf",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "7733be19dacf1279a7c064a6d07dec3e4281b379acda8be7fad3e0cb00a1bee5",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/reglament_SLA.xlsx",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "e8e19e33956e29609bcd27ca1d0494fb5bb500e7acd21e7ae3b2d1147b2d22e0",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/reglament_priema.md",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "06cc91c2778cb2fb664e3c2536fecd3fe96cbb13a7a7d9944d53657357b938bc",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/reglament_vyezda_SCAN.pdf",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "e716a9af85fd372f659f5dd447f776580372d3d2f7e7e4cd5336335031a1553c",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/tarify_2024_ustarevshee.md",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "a043854e5aa43965cc4ccc1b41b40c65179d61796e280793de452af2ff19b91b",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/tarify_tablica.png",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "0f12d0d3b8dd07a80c5528919774b1363f3f907a4657c50f5b7df95061dd6a99",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/zony_dop_soglashenie.md",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "0206f5785d5088cca15c11a89d0f06df503a16ff9e7ca1560948afd60970786b",
+    "status": "quarantine"
+  },
+  {
+    "file": "legacy_formats/zony_i_pravila.docx",
+    "reason": "Только упражнение ingestion; не допущен как текущая бизнес-политика.",
+    "scope": null,
+    "sha256": "cfeba13b309c791d821bb32c2da35e40213e6eabbdbe5f953721760c55e5e260",
+    "status": "quarantine"
+  }
+]

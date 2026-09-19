@@ -1,0 +1,12 @@
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-01", "expected": {"ack": false, "http_status": 503, "retry_same_event": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-02", "expected": {"duplicate_delivery_ok": true, "effects_once": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-03", "expected": {"tickets_after_recovery": 1, "tickets_before_recovery": 0}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-04", "expected": {"confirm_after_recovery": 1, "tickets_after_recovery": 1, "tickets_before_recovery": 1}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-05", "expected": {"confirm": 1, "reuse_run": true, "tickets": 1}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-06", "expected": {"ack": false, "preserve_business_status": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-07", "expected": {"preserve_business_status": true, "repeat_graph": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-08", "expected": {"count_each_call": true, "max_attempts": 2}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-09", "expected": {"max_actual_calls": 5, "sixth_call": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-10", "expected": {"ack": false, "claim_saved": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-11", "expected": {"business_continues": true, "telemetry_complete": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "failure_contract", "rule": "M6/M8/M9"}, "case_id": "FAULT-12", "expected": {"cache_hit": false, "foreign_content": false}, "review_status": "agent_reviewed"}

@@ -1,0 +1,19 @@
+{
+  "endpoint": "/requests",
+  "method": "POST",
+  "required": [
+    "service",
+    "address",
+    "phone"
+  ],
+  "optional": [
+    "preferred_time",
+    "comment"
+  ],
+  "auth": "api-key",
+  "errors": {
+    "422": "missing required",
+    "401": "no key"
+  },
+  "note": "описание API приёма — часть базы знаний"
+}

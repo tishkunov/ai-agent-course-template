@@ -1,0 +1,12 @@
+{
+  "clean_text": "Плановый выезд — 24 часа.",
+  "corrupted_text": "Плановый выезд — 240 часов.",
+  "expected": {
+    "admitted": false,
+    "found": false
+  },
+  "limitation": "Контролируемая подмена текста после OCR; не утверждение о результате реального OCR этого файла.",
+  "mode": "controlled_downstream",
+  "quality_review_required": true,
+  "source": "legacy_formats/reglament_vyezda_SCAN.pdf"
+}

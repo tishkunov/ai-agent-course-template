@@ -1,0 +1,1 @@
+{"case_id": "GATE-01", "family_id": "GATE-01", "input": {"baseline": {"correct": 8, "foreign_leaks": 0, "total": 10}, "candidate": {"correct": 9, "foreign_leaks": 1, "total": 10}}, "split": "regression"}

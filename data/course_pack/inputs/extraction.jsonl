@@ -1,0 +1,80 @@
+{"case_id": "EXT-00-0", "family_id": "EXT-F-00", "input": {"client_contact": null, "text": "Нужна замена смесителя. Адрес: ул. Учебная, д. 10, Приморский район. Телефон +7 921 000-10-00."}, "split": "train"}
+{"case_id": "EXT-00-1", "family_id": "EXT-F-00", "input": {"client_contact": null, "text": "Нужна замена смесителя. Телефон +7 921 000-10-00."}, "split": "train"}
+{"case_id": "EXT-00-2", "family_id": "EXT-F-00", "input": {"client_contact": "+7 921 000-10-00", "text": "Нужна замена смесителя. Адрес: ул. Учебная, д. 10, Приморский район."}, "split": "train"}
+{"case_id": "EXT-00-3", "family_id": "EXT-F-00", "input": {"client_contact": null, "text": "Нужна замена смесителя. Адрес: ул. Учебная, д. 10, Приморский район."}, "split": "train"}
+{"case_id": "EXT-00-4", "family_id": "EXT-F-00", "input": {"client_contact": null, "text": "Нужна замена смесителя. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 10, Приморский район. Телефон +7 921 000-10-00."}, "split": "train"}
+{"case_id": "EXT-00-5", "family_id": "EXT-F-00", "input": {"client_contact": null, "text": "Нужна замена смесителя. Адрес: ул. Учебная, д. 10, Приморский район. Телефон +7 921 000-10-00. Удобно завтра после 15:00."}, "split": "train"}
+{"case_id": "EXT-00-6", "family_id": "EXT-F-00", "input": {"client_contact": null, "text": "Нужна замена смесителя. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-00."}, "split": "train"}
+{"case_id": "EXT-00-7", "family_id": "EXT-EMPTY", "input": {"client_contact": null, "text": "help"}, "split": "regression"}
+{"case_id": "EXT-01-0", "family_id": "EXT-F-01", "input": {"client_contact": null, "text": "Нужна установка люстры. Адрес: ул. Учебная, д. 11, Приморский район. Телефон +7 921 000-10-01."}, "split": "train"}
+{"case_id": "EXT-01-1", "family_id": "EXT-F-01", "input": {"client_contact": null, "text": "Нужна установка люстры. Телефон +7 921 000-10-01."}, "split": "train"}
+{"case_id": "EXT-01-2", "family_id": "EXT-F-01", "input": {"client_contact": "+7 921 000-10-01", "text": "Нужна установка люстры. Адрес: ул. Учебная, д. 11, Приморский район."}, "split": "train"}
+{"case_id": "EXT-01-3", "family_id": "EXT-F-01", "input": {"client_contact": null, "text": "Нужна установка люстры. Адрес: ул. Учебная, д. 11, Приморский район."}, "split": "train"}
+{"case_id": "EXT-01-4", "family_id": "EXT-F-01", "input": {"client_contact": null, "text": "Нужна установка люстры. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 11, Приморский район. Телефон +7 921 000-10-01."}, "split": "train"}
+{"case_id": "EXT-01-5", "family_id": "EXT-F-01", "input": {"client_contact": null, "text": "Нужна установка люстры. Адрес: ул. Учебная, д. 11, Приморский район. Телефон +7 921 000-10-01. Удобно завтра после 15:00."}, "split": "train"}
+{"case_id": "EXT-01-6", "family_id": "EXT-F-01", "input": {"client_contact": null, "text": "Нужна установка люстры. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-01."}, "split": "train"}
+{"case_id": "EXT-01-7", "family_id": "EXT-TINY", "input": {"client_contact": null, "text": "💧 течёт, адрес и контакт пока не могу сообщить"}, "split": "regression"}
+{"case_id": "EXT-02-0", "family_id": "EXT-F-02", "input": {"client_contact": null, "text": "Нужна прочистка засора. Адрес: ул. Учебная, д. 12, Приморский район. Телефон +7 921 000-10-02."}, "split": "train"}
+{"case_id": "EXT-02-1", "family_id": "EXT-F-02", "input": {"client_contact": null, "text": "Нужна прочистка засора. Телефон +7 921 000-10-02."}, "split": "train"}
+{"case_id": "EXT-02-2", "family_id": "EXT-F-02", "input": {"client_contact": "+7 921 000-10-02", "text": "Нужна прочистка засора. Адрес: ул. Учебная, д. 12, Приморский район."}, "split": "train"}
+{"case_id": "EXT-02-3", "family_id": "EXT-F-02", "input": {"client_contact": null, "text": "Нужна прочистка засора. Адрес: ул. Учебная, д. 12, Приморский район."}, "split": "train"}
+{"case_id": "EXT-02-4", "family_id": "EXT-F-02", "input": {"client_contact": null, "text": "Нужна прочистка засора. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 12, Приморский район. Телефон +7 921 000-10-02."}, "split": "train"}
+{"case_id": "EXT-02-5", "family_id": "EXT-F-02", "input": {"client_contact": null, "text": "Нужна прочистка засора. Адрес: ул. Учебная, д. 12, Приморский район. Телефон +7 921 000-10-02. Удобно завтра после 15:00."}, "split": "train"}
+{"case_id": "EXT-02-6", "family_id": "EXT-F-02", "input": {"client_contact": null, "text": "Нужна прочистка засора. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-02."}, "split": "train"}
+{"case_id": "EXT-02-7", "family_id": "EXT-F-02", "input": {"client_contact": null, "text": "Только прочистка засора; адрес и телефон ещё не определены."}, "split": "train"}
+{"case_id": "EXT-03-0", "family_id": "EXT-F-03", "input": {"client_contact": null, "text": "Нужен ремонт бачка. Адрес: ул. Учебная, д. 13, Приморский район. Телефон +7 921 000-10-03."}, "split": "train"}
+{"case_id": "EXT-03-1", "family_id": "EXT-F-03", "input": {"client_contact": null, "text": "Нужен ремонт бачка. Телефон +7 921 000-10-03."}, "split": "train"}
+{"case_id": "EXT-03-2", "family_id": "EXT-F-03", "input": {"client_contact": "+7 921 000-10-03", "text": "Нужен ремонт бачка. Адрес: ул. Учебная, д. 13, Приморский район."}, "split": "train"}
+{"case_id": "EXT-03-3", "family_id": "EXT-F-03", "input": {"client_contact": null, "text": "Нужен ремонт бачка. Адрес: ул. Учебная, д. 13, Приморский район."}, "split": "train"}
+{"case_id": "EXT-03-4", "family_id": "EXT-F-03", "input": {"client_contact": null, "text": "Нужен ремонт бачка. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 13, Приморский район. Телефон +7 921 000-10-03."}, "split": "train"}
+{"case_id": "EXT-03-5", "family_id": "EXT-F-03", "input": {"client_contact": null, "text": "Нужен ремонт бачка. Адрес: ул. Учебная, д. 13, Приморский район. Телефон +7 921 000-10-03. Удобно завтра после 15:00."}, "split": "train"}
+{"case_id": "EXT-03-6", "family_id": "EXT-F-03", "input": {"client_contact": null, "text": "Нужен ремонт бачка. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-03."}, "split": "train"}
+{"case_id": "EXT-03-7", "family_id": "EXT-F-03", "input": {"client_contact": null, "text": "Только ремонт бачка; адрес и телефон ещё не определены."}, "split": "train"}
+{"case_id": "EXT-04-0", "family_id": "EXT-F-04", "input": {"client_contact": null, "text": "Нужна замена розетки. Адрес: ул. Учебная, д. 14, Приморский район. Телефон +7 921 000-10-04."}, "split": "train"}
+{"case_id": "EXT-04-1", "family_id": "EXT-F-04", "input": {"client_contact": null, "text": "Нужна замена розетки. Телефон +7 921 000-10-04."}, "split": "train"}
+{"case_id": "EXT-04-2", "family_id": "EXT-F-04", "input": {"client_contact": "+7 921 000-10-04", "text": "Нужна замена розетки. Адрес: ул. Учебная, д. 14, Приморский район."}, "split": "train"}
+{"case_id": "EXT-04-3", "family_id": "EXT-F-04", "input": {"client_contact": null, "text": "Нужна замена розетки. Адрес: ул. Учебная, д. 14, Приморский район."}, "split": "train"}
+{"case_id": "EXT-04-4", "family_id": "EXT-F-04", "input": {"client_contact": null, "text": "Нужна замена розетки. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 14, Приморский район. Телефон +7 921 000-10-04."}, "split": "train"}
+{"case_id": "EXT-04-5", "family_id": "EXT-F-04", "input": {"client_contact": null, "text": "Нужна замена розетки. Адрес: ул. Учебная, д. 14, Приморский район. Телефон +7 921 000-10-04. Удобно завтра после 15:00."}, "split": "train"}
+{"case_id": "EXT-04-6", "family_id": "EXT-F-04", "input": {"client_contact": null, "text": "Нужна замена розетки. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-04."}, "split": "train"}
+{"case_id": "EXT-04-7", "family_id": "EXT-F-04", "input": {"client_contact": null, "text": "Только замена розетки; адрес и телефон ещё не определены."}, "split": "train"}
+{"case_id": "EXT-05-0", "family_id": "EXT-F-05", "input": {"client_contact": null, "text": "Нужен монтаж щитка. Адрес: ул. Учебная, д. 15, Приморский район. Телефон +7 921 000-10-05."}, "split": "train"}
+{"case_id": "EXT-05-1", "family_id": "EXT-F-05", "input": {"client_contact": null, "text": "Нужен монтаж щитка. Телефон +7 921 000-10-05."}, "split": "train"}
+{"case_id": "EXT-05-2", "family_id": "EXT-F-05", "input": {"client_contact": "+7 921 000-10-05", "text": "Нужен монтаж щитка. Адрес: ул. Учебная, д. 15, Приморский район."}, "split": "train"}
+{"case_id": "EXT-05-3", "family_id": "EXT-F-05", "input": {"client_contact": null, "text": "Нужен монтаж щитка. Адрес: ул. Учебная, д. 15, Приморский район."}, "split": "train"}
+{"case_id": "EXT-05-4", "family_id": "EXT-F-05", "input": {"client_contact": null, "text": "Нужен монтаж щитка. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 15, Приморский район. Телефон +7 921 000-10-05."}, "split": "train"}
+{"case_id": "EXT-05-5", "family_id": "EXT-F-05", "input": {"client_contact": null, "text": "Нужен монтаж щитка. Адрес: ул. Учебная, д. 15, Приморский район. Телефон +7 921 000-10-05. Удобно завтра после 15:00."}, "split": "train"}
+{"case_id": "EXT-05-6", "family_id": "EXT-F-05", "input": {"client_contact": null, "text": "Нужен монтаж щитка. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-05."}, "split": "train"}
+{"case_id": "EXT-05-7", "family_id": "EXT-F-05", "input": {"client_contact": null, "text": "Только монтаж щитка; адрес и телефон ещё не определены."}, "split": "train"}
+{"case_id": "EXT-06-0", "family_id": "EXT-F-06", "input": {"client_contact": null, "text": "Нужен ремонт холодильника. Адрес: ул. Учебная, д. 16, Приморский район. Телефон +7 921 000-10-06."}, "split": "dev"}
+{"case_id": "EXT-06-1", "family_id": "EXT-F-06", "input": {"client_contact": null, "text": "Нужен ремонт холодильника. Телефон +7 921 000-10-06."}, "split": "dev"}
+{"case_id": "EXT-06-2", "family_id": "EXT-F-06", "input": {"client_contact": "+7 921 000-10-06", "text": "Нужен ремонт холодильника. Адрес: ул. Учебная, д. 16, Приморский район."}, "split": "dev"}
+{"case_id": "EXT-06-3", "family_id": "EXT-F-06", "input": {"client_contact": null, "text": "Нужен ремонт холодильника. Адрес: ул. Учебная, д. 16, Приморский район."}, "split": "dev"}
+{"case_id": "EXT-06-4", "family_id": "EXT-F-06", "input": {"client_contact": null, "text": "Нужен ремонт холодильника. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 16, Приморский район. Телефон +7 921 000-10-06."}, "split": "dev"}
+{"case_id": "EXT-06-5", "family_id": "EXT-F-06", "input": {"client_contact": null, "text": "Нужен ремонт холодильника. Адрес: ул. Учебная, д. 16, Приморский район. Телефон +7 921 000-10-06. Удобно завтра после 15:00."}, "split": "dev"}
+{"case_id": "EXT-06-6", "family_id": "EXT-F-06", "input": {"client_contact": null, "text": "Нужен ремонт холодильника. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-06."}, "split": "dev"}
+{"case_id": "EXT-06-7", "family_id": "EXT-F-06", "input": {"client_contact": null, "text": "Только ремонт холодильника; адрес и телефон ещё не определены."}, "split": "dev"}
+{"case_id": "EXT-07-0", "family_id": "EXT-F-07", "input": {"client_contact": null, "text": "Нужно мытьё окон. Адрес: ул. Учебная, д. 17, Приморский район. Телефон +7 921 000-10-07."}, "split": "dev"}
+{"case_id": "EXT-07-1", "family_id": "EXT-F-07", "input": {"client_contact": null, "text": "Нужно мытьё окон. Телефон +7 921 000-10-07."}, "split": "dev"}
+{"case_id": "EXT-07-2", "family_id": "EXT-F-07", "input": {"client_contact": "+7 921 000-10-07", "text": "Нужно мытьё окон. Адрес: ул. Учебная, д. 17, Приморский район."}, "split": "dev"}
+{"case_id": "EXT-07-3", "family_id": "EXT-F-07", "input": {"client_contact": null, "text": "Нужно мытьё окон. Адрес: ул. Учебная, д. 17, Приморский район."}, "split": "dev"}
+{"case_id": "EXT-07-4", "family_id": "EXT-F-07", "input": {"client_contact": null, "text": "Нужно мытьё окон. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 17, Приморский район. Телефон +7 921 000-10-07."}, "split": "dev"}
+{"case_id": "EXT-07-5", "family_id": "EXT-F-07", "input": {"client_contact": null, "text": "Нужно мытьё окон. Адрес: ул. Учебная, д. 17, Приморский район. Телефон +7 921 000-10-07. Удобно завтра после 15:00."}, "split": "dev"}
+{"case_id": "EXT-07-6", "family_id": "EXT-F-07", "input": {"client_contact": null, "text": "Нужно мытьё окон. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-07."}, "split": "dev"}
+{"case_id": "EXT-07-7", "family_id": "EXT-F-07", "input": {"client_contact": null, "text": "Только мытьё окон; адрес и телефон ещё не определены."}, "split": "dev"}
+{"case_id": "EXT-08-0", "family_id": "EXT-F-08", "input": {"client_contact": null, "text": "Нужна химчистка дивана. Адрес: ул. Учебная, д. 18, Приморский район. Телефон +7 921 000-10-08."}, "split": "test"}
+{"case_id": "EXT-08-1", "family_id": "EXT-F-08", "input": {"client_contact": null, "text": "Нужна химчистка дивана. Телефон +7 921 000-10-08."}, "split": "test"}
+{"case_id": "EXT-08-2", "family_id": "EXT-F-08", "input": {"client_contact": "+7 921 000-10-08", "text": "Нужна химчистка дивана. Адрес: ул. Учебная, д. 18, Приморский район."}, "split": "test"}
+{"case_id": "EXT-08-3", "family_id": "EXT-F-08", "input": {"client_contact": null, "text": "Нужна химчистка дивана. Адрес: ул. Учебная, д. 18, Приморский район."}, "split": "test"}
+{"case_id": "EXT-08-4", "family_id": "EXT-F-08", "input": {"client_contact": null, "text": "Нужна химчистка дивана. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 18, Приморский район. Телефон +7 921 000-10-08."}, "split": "test"}
+{"case_id": "EXT-08-5", "family_id": "EXT-F-08", "input": {"client_contact": null, "text": "Нужна химчистка дивана. Адрес: ул. Учебная, д. 18, Приморский район. Телефон +7 921 000-10-08. Удобно завтра после 15:00."}, "split": "test"}
+{"case_id": "EXT-08-6", "family_id": "EXT-F-08", "input": {"client_contact": null, "text": "Нужна химчистка дивана. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-08."}, "split": "test"}
+{"case_id": "EXT-08-7", "family_id": "EXT-F-08", "input": {"client_contact": null, "text": "Только химчистка дивана; адрес и телефон ещё не определены."}, "split": "test"}
+{"case_id": "EXT-09-0", "family_id": "EXT-F-09", "input": {"client_contact": null, "text": "Нужен ремонт духового шкафа. Адрес: ул. Учебная, д. 19, Приморский район. Телефон +7 921 000-10-09."}, "split": "test"}
+{"case_id": "EXT-09-1", "family_id": "EXT-F-09", "input": {"client_contact": null, "text": "Нужен ремонт духового шкафа. Телефон +7 921 000-10-09."}, "split": "test"}
+{"case_id": "EXT-09-2", "family_id": "EXT-F-09", "input": {"client_contact": "+7 921 000-10-09", "text": "Нужен ремонт духового шкафа. Адрес: ул. Учебная, д. 19, Приморский район."}, "split": "test"}
+{"case_id": "EXT-09-3", "family_id": "EXT-F-09", "input": {"client_contact": null, "text": "Нужен ремонт духового шкафа. Адрес: ул. Учебная, д. 19, Приморский район."}, "split": "test"}
+{"case_id": "EXT-09-4", "family_id": "EXT-F-09", "input": {"client_contact": null, "text": "Нужен ремонт духового шкафа. Адрес не ул. Старая, д. 1, а ул. Учебная, д. 19, Приморский район. Телефон +7 921 000-10-09."}, "split": "test"}
+{"case_id": "EXT-09-5", "family_id": "EXT-F-09", "input": {"client_contact": null, "text": "Нужен ремонт духового шкафа. Адрес: ул. Учебная, д. 19, Приморский район. Телефон +7 921 000-10-09. Удобно завтра после 15:00."}, "split": "test"}
+{"case_id": "EXT-09-6", "family_id": "EXT-F-09", "input": {"client_contact": null, "text": "Нужен ремонт духового шкафа. Не знаю адрес: либо ул. Первая, д. 1, либо ул. Вторая, д. 2. Телефон +7 921 000-10-09."}, "split": "test"}
+{"case_id": "EXT-09-7", "family_id": "EXT-F-09", "input": {"client_contact": null, "text": "Только ремонт духового шкафа; адрес и телефон ещё не определены."}, "split": "test"}

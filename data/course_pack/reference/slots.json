@@ -1,0 +1,9 @@
+[
+  {
+    "available": true,
+    "master_id": "master-1",
+    "service_code": "SRV-1007",
+    "slot_id": "slot-1",
+    "starts_at": "2026-09-20T11:00:00Z"
+  }
+]

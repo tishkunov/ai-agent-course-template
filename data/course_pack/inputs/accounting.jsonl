@@ -1,0 +1,1 @@
+{"case_id": "COST-01", "family_id": "COST-01", "input": {"records": [{"call_id": "A", "cost": "0.012", "estimated": false}, {"call_id": "B", "cost": "0.020", "estimated": false}, {"call_id": "A", "cost": "0.012", "estimated": false}, {"call_id": "C", "cost": null, "estimated": false}]}, "split": "regression"}

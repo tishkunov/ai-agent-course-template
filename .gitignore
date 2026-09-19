@@ -1,0 +1,40 @@
+# окружение / секреты
+.env
+.env.*
+!.env.example
+
+# зависимости и виртуальное окружение
+.venv/
+__pycache__/
+*.pyc
+
+# кэши инструментов
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# сборка
+dist/
+build/
+*.egg-info/
+
+# ОС/редактор
+.DS_Store
+
+# сгенерированная синтетика (data/ саму НЕ игнорировать)
+data/_generated/
+
+# локальный план переработки курса
+/docs/course-revision-plan/
+
+# локальные материалы автора и рабочие записи
+/_author/
+/docs/*
+!/docs/_templates/
+/.claude/settings.json
+/.claude/settings.local.json
+/.codex/
+/.agents/

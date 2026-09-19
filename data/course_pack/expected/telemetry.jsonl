@@ -1,0 +1,1 @@
+{"basis": {"kind": "controlled_clock", "rule": "M9.6"}, "case_id": "ALERT-01", "expected": {"firing_at_minutes": [4], "resolved_at_minutes": [5]}, "review_status": "agent_reviewed"}

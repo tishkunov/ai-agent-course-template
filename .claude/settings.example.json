@@ -1,0 +1,31 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/hooks/ruff-on-write.sh\"",
+            "statusMessage": "ruff check --fix + format по app/**/*.py",
+            "timeout": 30
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/hooks/pytest-before-commit.sh\"",
+            "if": "Bash(git commit:*)",
+            "statusMessage": "pytest -q перед коммитом (гейт качества)",
+            "timeout": 300
+          }
+        ]
+      }
+    ]
+  }
+}

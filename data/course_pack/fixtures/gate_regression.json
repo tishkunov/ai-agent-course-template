@@ -1,0 +1,14 @@
+{
+  "baseline": {
+    "extraction_correct": 8,
+    "extraction_total": 10,
+    "foreign_leaks": 0
+  },
+  "candidate": {
+    "extraction_correct": 9,
+    "extraction_total": 10,
+    "foreign_leaks": 1
+  },
+  "expected_verdict": "fail",
+  "rule": "Any foreign leak blocks acceptance regardless of mean improvement."
+}

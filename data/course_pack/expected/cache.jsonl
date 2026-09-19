@@ -1,0 +1,40 @@
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-00-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "identity"}, "case_id": "CACHE-00-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-01-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "source_revision"}, "case_id": "CACHE-01-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-02-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "as_of"}, "case_id": "CACHE-02-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-03-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "meaning"}, "case_id": "CACHE-03-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-04-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "identity"}, "case_id": "CACHE-04-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-05-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "source_revision"}, "case_id": "CACHE-05-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-06-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "as_of"}, "case_id": "CACHE-06-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-07-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "meaning"}, "case_id": "CACHE-07-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-08-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "identity"}, "case_id": "CACHE-08-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-09-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "source_revision"}, "case_id": "CACHE-09-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-10-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "as_of"}, "case_id": "CACHE-10-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-11-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "meaning"}, "case_id": "CACHE-11-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-12-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "identity"}, "case_id": "CACHE-12-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-13-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "source_revision"}, "case_id": "CACHE-13-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-14-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "as_of"}, "case_id": "CACHE-14-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-15-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "meaning"}, "case_id": "CACHE-15-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-16-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "identity"}, "case_id": "CACHE-16-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-17-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "source_revision"}, "case_id": "CACHE-17-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-18-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "as_of"}, "case_id": "CACHE-18-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "same_context"}, "case_id": "CACHE-19-hit", "expected": {"reuse_allowed": true}, "review_status": "agent_reviewed"}
+{"basis": {"kind": "changed_context", "reason": "meaning"}, "case_id": "CACHE-19-miss", "expected": {"reuse_allowed": false}, "review_status": "agent_reviewed"}
